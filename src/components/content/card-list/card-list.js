@@ -1,15 +1,10 @@
 import Card from "../card/card";
 
-function CardList() {
+function CardList({data}) {
     return (
-        <>
-         <Card/>
-         <Card/>
-         <Card/>
-         <Card/>
-         <Card/>
-         <Card/>
-        </>
+        data.map((item, index)=>(
+            <Card item={item} index={index}/>
+        ))
     )
 }
 
