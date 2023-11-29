@@ -3,7 +3,7 @@ import {Component} from "react";
 class Card extends Component {
     constructor(props) {
         super(props)
-        this.state = {like: false, title: "TEST title"}
+        this.state = {like: true, title: "TEST title"}
         this.onLike = this.onLike.bind(this)
     }
 

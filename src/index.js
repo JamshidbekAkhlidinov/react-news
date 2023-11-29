@@ -11,27 +11,27 @@ const number = Math.floor(Math.random() * 99);
 
 const newsData = [
     {
-        'photo': "https://picsum.photos/500/300?random=30",
+        'photo': "903-500x300.jpg",
         'title': "Test lorem ipsum date app 1",
     },
     {
-        'photo': "https://picsum.photos/500/300?random=20",
+        'photo': "903-500x300.jpg",
         'title': "Test lorem ipsum date app 2",
     },
     {
-        'photo': "https://picsum.photos/500/300?random=50",
+        'photo': "903-500x300.jpg",
         'title': "Test lorem ipsum date app 3",
     },
     {
-        'photo': "https://picsum.photos/500/300?random=90",
+        'photo': "903-500x300.jpg",
         'title': "Test lorem ipsum date app 4",
     },
     {
-        'photo': "https://picsum.photos/500/300?random=33",
+        'photo': "903-500x300.jpg",
         'title': "Test lorem ipsum date app 5",
     },
     {
-        'photo': "https://picsum.photos/500/300?random=40",
+        'photo': "903-500x300.jpg",
         'title': "Test lorem ipsum date app 6",
     },
 ]
